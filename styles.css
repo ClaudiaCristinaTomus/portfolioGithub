@@ -22,7 +22,7 @@ header {
   align-items: center;
   justify-content: space-between;
   max-width: 80em;
-  margin: auto;
+  margin: 0 100px;
   box-shadow: 0 2px 1px -1px rgb(225, 224, 224);
 }
 .logo {
@@ -139,7 +139,7 @@ header {
   justify-content: space-between;
   flex-direction: column;
   max-width: 80em;
-  margin: auto;
+  margin: 0 100px;
   padding: 2em 0;
 }
 
@@ -162,6 +162,7 @@ h1:after {
 
 .projects_git {
   margin-top: 2.8rem;
+
 }
 .projects_img {
   margin: 2rem 3rem;
