@@ -21,13 +21,14 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  max-width: 80em;
-  margin: 0 100px;
+  max-width: 120em;
+  margin: auto;
   box-shadow: 0 2px 1px -1px rgb(225, 224, 224);
 }
 .logo {
 
   font-size: 23px;
+  margin-left:100px;
 }
 .hamburger {
   display: none;
@@ -38,6 +39,7 @@ header {
   display: flex;
   justify-content: space-between;
   width: 270px;
+  margin-right: 100px;
 }
 
 .nav-bar ul li a {
@@ -138,8 +140,9 @@ header {
   display: flex;
   justify-content: space-between;
   flex-direction: column;
-  max-width: 80em;
-  margin: 0 100px;
+  max-width: 120em;
+  margin-left:100px;
+  
   padding: 2em 0;
 }
 
@@ -204,6 +207,7 @@ footer {
   }
   .logo {
     display: none;
+    
   }
   .nav-bar {
     height: 0;
