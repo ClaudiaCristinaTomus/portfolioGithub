@@ -26,7 +26,7 @@ header {
   box-shadow: 0 2px 1px -1px rgb(225, 224, 224);
 }
 .logo {
-  margin: 0 0px;
+
   font-size: 23px;
 }
 .hamburger {
@@ -34,7 +34,7 @@ header {
 }
 
 .nav-bar ul {
-  margin: 0 0px;
+  
   display: flex;
   justify-content: space-between;
   width: 270px;
